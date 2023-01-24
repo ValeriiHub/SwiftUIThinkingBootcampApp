@@ -14,6 +14,7 @@
 		552D30A6297D774200DBDEEB /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552D30A5297D774200DBDEEB /* TextBootcamp.swift */; };
 		552D30A8297D811600DBDEEB /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552D30A7297D811600DBDEEB /* ShapesBootcamp.swift */; };
 		552D30AA297D974200DBDEEB /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552D30A9297D974200DBDEEB /* ColorBootcamp.swift */; };
+		55DC74F12980313600B3CC85 /* GradientBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DC74F02980313600B3CC85 /* GradientBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		552D30A5297D774200DBDEEB /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		552D30A7297D811600DBDEEB /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		552D30A9297D974200DBDEEB /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
+		55DC74F02980313600B3CC85 /* GradientBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				552D30A5297D774200DBDEEB /* TextBootcamp.swift */,
 				552D30A7297D811600DBDEEB /* ShapesBootcamp.swift */,
 				552D30A9297D974200DBDEEB /* ColorBootcamp.swift */,
+				55DC74F02980313600B3CC85 /* GradientBootcamp.swift */,
 				552D309B297D771900DBDEEB /* Assets.xcassets */,
 				552D309D297D771900DBDEEB /* Preview Content */,
 			);
@@ -150,6 +153,7 @@
 				552D30A8297D811600DBDEEB /* ShapesBootcamp.swift in Sources */,
 				552D309A297D771800DBDEEB /* ContentView.swift in Sources */,
 				552D30A6297D774200DBDEEB /* TextBootcamp.swift in Sources */,
+				55DC74F12980313600B3CC85 /* GradientBootcamp.swift in Sources */,
 				552D3098297D771800DBDEEB /* SwiftUIThinkingBootcampAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

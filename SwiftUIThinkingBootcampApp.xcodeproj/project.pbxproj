@@ -18,6 +18,7 @@
 		55DC74F3298037AA00B3CC85 /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DC74F2298037A900B3CC85 /* IconsBootcamp.swift */; };
 		55DC74FB298165C400B3CC85 /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DC74FA298165C400B3CC85 /* ImageBootcamp.swift */; };
 		55DC74FF2981737200B3CC85 /* FrameBootcam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DC74FE2981737200B3CC85 /* FrameBootcam.swift */; };
+		55DF367B2982B6850006CF27 /* Background&OverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DF367A2982B6850006CF27 /* Background&OverlayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		55DC74F2298037A900B3CC85 /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 		55DC74FA298165C400B3CC85 /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		55DC74FE2981737200B3CC85 /* FrameBootcam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcam.swift; sourceTree = "<group>"; };
+		55DF367A2982B6850006CF27 /* Background&OverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Background&OverlayBootcamp.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				55DC74F2298037A900B3CC85 /* IconsBootcamp.swift */,
 				55DC74FA298165C400B3CC85 /* ImageBootcamp.swift */,
 				55DC74FE2981737200B3CC85 /* FrameBootcam.swift */,
+				55DF367A2982B6850006CF27 /* Background&OverlayBootcamp.swift */,
 				552D309B297D771900DBDEEB /* Assets.xcassets */,
 				552D309D297D771900DBDEEB /* Preview Content */,
 			);
@@ -166,6 +169,7 @@
 				552D3098297D771800DBDEEB /* SwiftUIThinkingBootcampAppApp.swift in Sources */,
 				55DC74FF2981737200B3CC85 /* FrameBootcam.swift in Sources */,
 				55DC74FB298165C400B3CC85 /* ImageBootcamp.swift in Sources */,
+				55DF367B2982B6850006CF27 /* Background&OverlayBootcamp.swift in Sources */,
 				55DC74F3298037AA00B3CC85 /* IconsBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

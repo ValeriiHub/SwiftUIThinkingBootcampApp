@@ -35,6 +35,7 @@
 		55DF367B2982B6850006CF27 /* Background&OverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DF367A2982B6850006CF27 /* Background&OverlayBootcamp.swift */; };
 		55DF367D2982D5690006CF27 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DF367C2982D5690006CF27 /* StacksBootcamp.swift */; };
 		55ED875C2986D4B200156F79 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55ED875B2986D4B200156F79 /* InitializerBootcamp.swift */; };
+		55FA82E2299533D2009238DD /* AnimationTimingBootcamp27.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FA82E1299533D2009238DD /* AnimationTimingBootcamp27.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		55DF367A2982B6850006CF27 /* Background&OverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Background&OverlayBootcamp.swift"; sourceTree = "<group>"; };
 		55DF367C2982D5690006CF27 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		55ED875B2986D4B200156F79 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
+		55FA82E1299533D2009238DD /* AnimationTimingBootcamp27.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp27.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 				55734639298BE50400644D09 /* ConditionalBootcamp.swift */,
 				5573463B298BEEF900644D09 /* TernaryBootcamp.swift */,
 				555BFE5929911E2100F6C05B /* AnimationBootcamp26.swift */,
+				55FA82E1299533D2009238DD /* AnimationTimingBootcamp27.swift */,
 				552D309B297D771900DBDEEB /* Assets.xcassets */,
 				552D309D297D771900DBDEEB /* Preview Content */,
 			);
@@ -232,6 +235,7 @@
 				55734638298BC9F000644D09 /* BindingBootcamp.swift in Sources */,
 				556D8B062985421400CE90B8 /* SpacerBootcamp.swift in Sources */,
 				554B8EE62988639C004C9A82 /* GridBootcamp.swift in Sources */,
+				55FA82E2299533D2009238DD /* AnimationTimingBootcamp27.swift in Sources */,
 				5573463A298BE50400644D09 /* ConditionalBootcamp.swift in Sources */,
 				55DF367B2982B6850006CF27 /* Background&OverlayBootcamp.swift in Sources */,
 				55DC74F3298037AA00B3CC85 /* IconsBootcamp.swift in Sources */,

@@ -1,5 +1,5 @@
 //
-//  AnimationTimingBootcamp27.swift
+//  AnimationTimingBootcamp26.swift
 //  SwiftUIThinkingBootcampApp
 //
 //  Created by User03 on 09.02.2023.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct AnimationTimingBootcamp27: View {
+struct AnimationTimingBootcamp26: View {
     
     @State private var isAnimated = false
     let timing: Double = 10
@@ -44,8 +44,8 @@ struct AnimationTimingBootcamp27: View {
     }
 }
 
-struct AnimationTimingBootcamp27_Previews: PreviewProvider {
+struct AnimationTimingBootcamp26_Previews: PreviewProvider {
     static var previews: some View {
-        AnimationTimingBootcamp27()
+        AnimationTimingBootcamp26()
     }
 }

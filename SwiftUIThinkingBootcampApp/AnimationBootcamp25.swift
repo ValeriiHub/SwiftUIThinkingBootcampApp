@@ -1,5 +1,5 @@
 //
-//  AnimationBootcamp26.swift
+//  AnimationBootcamp25.swift
 //  SwiftUIThinkingBootcampApp
 //
 //  Created by User03 on 06.02.2023.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct AnimationBootcamp26: View {
+struct AnimationBootcamp25: View {
     
     @State private var isAnimated = false
     
@@ -39,8 +39,8 @@ struct AnimationBootcamp26: View {
     }
 }
 
-struct AnimationBootcamp26_Previews: PreviewProvider {
+struct AnimationBootcamp25_Previews: PreviewProvider {
     static var previews: some View {
-        AnimationBootcamp26()
+        AnimationBootcamp25()
     }
 }

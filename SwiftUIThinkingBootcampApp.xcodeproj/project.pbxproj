@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		551C02DF2987109100C5A436 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 551C02DE2987109100C5A436 /* ForEachBootcamp.swift */; };
+		5521770729B1185C004C2D2D /* AlertBootcamp32.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5521770629B1185C004C2D2D /* AlertBootcamp32.swift */; };
 		552D3098297D771800DBDEEB /* SwiftUIThinkingBootcampAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552D3097297D771800DBDEEB /* SwiftUIThinkingBootcampAppApp.swift */; };
 		552D309C297D771900DBDEEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 552D309B297D771900DBDEEB /* Assets.xcassets */; };
 		552D309F297D771900DBDEEB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 552D309E297D771900DBDEEB /* Preview Assets.xcassets */; };
@@ -44,6 +45,7 @@
 
 /* Begin PBXFileReference section */
 		551C02DE2987109100C5A436 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
+		5521770629B1185C004C2D2D /* AlertBootcamp32.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp32.swift; sourceTree = "<group>"; };
 		552D3094297D771800DBDEEB /* SwiftUIThinkingBootcampApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIThinkingBootcampApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		552D3097297D771800DBDEEB /* SwiftUIThinkingBootcampAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIThinkingBootcampAppApp.swift; sourceTree = "<group>"; };
 		552D309B297D771900DBDEEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -140,6 +142,7 @@
 				5563E1EC29A2CEB800D8A518 /* PopoverBootcamp29.swift */,
 				5550B9A429A830F7006EB076 /* NavigationViewBootcamp30.swift */,
 				5550B9A629A8E78B006EB076 /* ListBootcamp31.swift */,
+				5521770629B1185C004C2D2D /* AlertBootcamp32.swift */,
 				552D309B297D771900DBDEEB /* Assets.xcassets */,
 				552D309D297D771900DBDEEB /* Preview Content */,
 			);
@@ -226,6 +229,7 @@
 			files = (
 				5573462E298B178B00644D09 /* StateBootcamp.swift in Sources */,
 				552D30AA297D974200DBDEEB /* ColorBootcamp.swift in Sources */,
+				5521770729B1185C004C2D2D /* AlertBootcamp32.swift in Sources */,
 				552D30A8297D811600DBDEEB /* ShapesBootcamp.swift in Sources */,
 				554B8EE429885B2B004C9A82 /* ScrollViewBootcamp.swift in Sources */,
 				555BFE5A29911E2100F6C05B /* AnimationBootcamp25.swift in Sources */,

@@ -1,5 +1,5 @@
 //
-//  ContextMenuBootcamp33.swift
+//  ContextMenuBootcamp34.swift
 //  SwiftUIThinkingBootcampApp
 //
 //  Created by User03 on 06.03.2023.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContextMenuBootcamp33: View {
+struct ContextMenuBootcamp34: View {
     
     @State private var bacgroundColor = Color.blue
     
@@ -53,6 +53,6 @@ struct ContextMenuBootcamp33: View {
 
 struct ContextMenuBootcamp33_Previews: PreviewProvider {
     static var previews: some View {
-        ContextMenuBootcamp33()
+        ContextMenuBootcamp34()
     }
 }

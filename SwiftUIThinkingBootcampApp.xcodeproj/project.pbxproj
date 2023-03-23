@@ -39,6 +39,7 @@
 		557CF07C29B4A6BA00653198 /* ActionSheetBootcamp33.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557CF07B29B4A6BA00653198 /* ActionSheetBootcamp33.swift */; };
 		557CF07E29B5EC8900653198 /* ContextMenuBootcamp34.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557CF07D29B5EC8900653198 /* ContextMenuBootcamp34.swift */; };
 		557CF08029B5F11100653198 /* TextfieldBootcamp35.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557CF07F29B5F11100653198 /* TextfieldBootcamp35.swift */; };
+		558122C129C47933004E3C84 /* DocumentationBootcamp45.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558122C029C47933004E3C84 /* DocumentationBootcamp45.swift */; };
 		55894C6629B8EC57004E4BC6 /* TexEtditorBootcamp36.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55894C6529B8EC57004E4BC6 /* TexEtditorBootcamp36.swift */; };
 		558DFE792983EC8900D3E9C3 /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558DFE782983EC8900D3E9C3 /* PaddingBootcamp.swift */; };
 		55A8BA5F29C1CC05000D9395 /* StepperBootcamp41.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55A8BA5E29C1CC05000D9395 /* StepperBootcamp41.swift */; };
@@ -89,6 +90,7 @@
 		557CF07B29B4A6BA00653198 /* ActionSheetBootcamp33.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBootcamp33.swift; sourceTree = "<group>"; };
 		557CF07D29B5EC8900653198 /* ContextMenuBootcamp34.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootcamp34.swift; sourceTree = "<group>"; };
 		557CF07F29B5F11100653198 /* TextfieldBootcamp35.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextfieldBootcamp35.swift; sourceTree = "<group>"; };
+		558122C029C47933004E3C84 /* DocumentationBootcamp45.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootcamp45.swift; sourceTree = "<group>"; };
 		55894C6529B8EC57004E4BC6 /* TexEtditorBootcamp36.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TexEtditorBootcamp36.swift; sourceTree = "<group>"; };
 		558DFE782983EC8900D3E9C3 /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
 		55A8BA5E29C1CC05000D9395 /* StepperBootcamp41.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp41.swift; sourceTree = "<group>"; };
@@ -179,6 +181,7 @@
 				55A8BA6029C1D20E000D9395 /* SliderBootcamp42.swift */,
 				5551F1E929C3830C0067B1CE /* TabViewBootcamp43.swift */,
 				5551F1EB29C396400067B1CE /* DarkModeBootcamp44.swift */,
+				558122C029C47933004E3C84 /* DocumentationBootcamp45.swift */,
 				552D309B297D771900DBDEEB /* Assets.xcassets */,
 				552D309D297D771900DBDEEB /* Preview Content */,
 			);
@@ -287,6 +290,7 @@
 				55FA82E4299541C5009238DD /* TransitionBootcamp27.swift in Sources */,
 				552D3098297D771800DBDEEB /* SwiftUIThinkingBootcampAppApp.swift in Sources */,
 				551C02DF2987109100C5A436 /* ForEachBootcamp.swift in Sources */,
+				558122C129C47933004E3C84 /* DocumentationBootcamp45.swift in Sources */,
 				55A8BA5F29C1CC05000D9395 /* StepperBootcamp41.swift in Sources */,
 				55DC74FF2981737200B3CC85 /* FrameBootcam.swift in Sources */,
 				55DC74FB298165C400B3CC85 /* ImageBootcamp.swift in Sources */,

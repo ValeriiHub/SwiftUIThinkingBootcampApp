@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIThinkingBootcampAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ListBootcamp31()
+            IntroView()
         }
     }
 }
